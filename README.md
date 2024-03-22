@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonaChaudhuri
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R and Tableau
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning DAX, R and Tableau
 - 💞️ I’m looking to collaborate on project's success
 - 📫 How to reach me: www.linkedin.com/in/donachaudhuri
 - 😄 Pronouns: her
